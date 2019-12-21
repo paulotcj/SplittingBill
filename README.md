@@ -62,29 +62,29 @@ Input:
 	<number of participants event 2>
 	    ...
 	
-Example:
-	
-3
-2
-21
-33
-4
-26
-25.1
-12
-14.03
-3
-15
-17
-11
-2
-2
-3.69
-7.15
-2
-11.22
-9.99
-0
+Example:<br />
+<br />
+3<br />
+2<br />
+21<br />
+33<br />
+4<br />
+26<br />
+25.1<br />
+12<br />
+14.03<br />
+3<br />
+15<br />
+17<br />
+11<br />
+2<br />
+2<br />
+3.69<br />
+7.15<br />
+2<br />
+11.22<br />
+9.99<br />
+0<br />
 
 Details:
 3 ---------------> Event declaration with 3 participants
