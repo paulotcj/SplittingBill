@@ -9,13 +9,13 @@ Solution:
  - Then the grand total should be generated.
  - The bill then is divided into equal parts among the participants.
  - Then the 'due part' is the net cost that each individual will occur, it is the difference between <split bill> - <total already paid>. Positive values mean the participant need to pay the specific amount indicated, negative values mean the participant need to collect that specific value from other participants.
-
-    Example:
-        Participant 1 expenses:
-            3.69
-            7.15
-		Participant 1 total expenses:
-		    10.84
+<br />
+    Example:<br />
+        Participant 1 expenses:<br />
+            3.69<br />
+            7.15<br />
+		Participant 1 total expenses:<br />
+		    10.84<br />
 		-------------------------------	
         Participant 2 expenses:
             11.22
@@ -85,29 +85,29 @@ Example:<br />
 11.22<br />
 9.99<br />
 0<br />
-
-Details:
-3 ---------------> Event declaration with 3 participants
-    2 ----------->  First participant with 2 receipts
-        21 ------>   Receipt 1
-        33 ------>   Receipt 2
-    4 ----------->  Second participant with 4 receipts
-        26 ------>   Receipt 1
-        25.1 ---->   Receipt 2
-        12 ------>   Receipt 3
-        14.03 --->   Receipt 4
-    3 ----------->  Third participant with 3 receipts
-        15 ------>   Receipt 1
-        17 ------>   Receipt 2
-        11 ------>   Receipt 3
-2 ---------------> Event declaration with 2 participants
-    2 ----------->  First participant with 2 receipts
-        3.69 ---->   Receipt 1
-        7.15 ---->   Receipt 2
-    2 ----------->  Second participant with 2 receipts
-        11.22 --->   Receipt 1
-        9.99 ---->   Receipt 2
-0 ---------------> End of file
+<br />
+Details:<br />
+3 ---------------> Event declaration with 3 participants<br />
+    2 ----------->  First participant with 2 receipts<br />
+        21 ------>   Receipt 1<br />
+        33 ------>   Receipt 2<br />
+    4 ----------->  Second participant with 4 receipts<br />
+        26 ------>   Receipt 1<br />
+        25.1 ---->   Receipt 2<br />
+        12 ------>   Receipt 3<br />
+        14.03 --->   Receipt 4<br />
+    3 ----------->  Third participant with 3 receipts<br />
+        15 ------>   Receipt 1<br />
+        17 ------>   Receipt 2<br />
+        11 ------>   Receipt 3<br />
+2 ---------------> Event declaration with 2 participants<br />
+    2 ----------->  First participant with 2 receipts<br />
+        3.69 ---->   Receipt 1<br />
+        7.15 ---->   Receipt 2<br />
+    2 ----------->  Second participant with 2 receipts<br />
+        11.22 --->   Receipt 1<br />
+        9.99 ---->   Receipt 2<br />
+0 ---------------> End of file<br />
 
 
 
@@ -118,11 +118,11 @@ Expected output:
  
 With the example below the expected output should be:
 
-$4.04
-($19.09)
-$15.04
-
-$5.19
-($5.19)
+$4.04<br />
+($19.09)<br />
+$15.04<br />
+<br />
+$5.19<br />
+($5.19)<br />
 
 
