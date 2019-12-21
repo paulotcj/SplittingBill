@@ -1,0 +1,11 @@
+C:\Users\Paulo\source\repos\SplittingBill\SplittingBill\bin\Debug\netcoreapp2.1\SplittingBill.deps.json
+C:\Users\Paulo\source\repos\SplittingBill\SplittingBill\bin\Debug\netcoreapp2.1\SplittingBill.runtimeconfig.json
+C:\Users\Paulo\source\repos\SplittingBill\SplittingBill\bin\Debug\netcoreapp2.1\SplittingBill.runtimeconfig.dev.json
+C:\Users\Paulo\source\repos\SplittingBill\SplittingBill\bin\Debug\netcoreapp2.1\SplittingBill.dll
+C:\Users\Paulo\source\repos\SplittingBill\SplittingBill\bin\Debug\netcoreapp2.1\SplittingBill.pdb
+C:\Users\Paulo\source\repos\SplittingBill\SplittingBill\obj\Debug\netcoreapp2.1\SplittingBill.csprojAssemblyReference.cache
+C:\Users\Paulo\source\repos\SplittingBill\SplittingBill\obj\Debug\netcoreapp2.1\SplittingBill.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\source\repos\SplittingBill\SplittingBill\obj\Debug\netcoreapp2.1\SplittingBill.AssemblyInfoInputs.cache
+C:\Users\Paulo\source\repos\SplittingBill\SplittingBill\obj\Debug\netcoreapp2.1\SplittingBill.AssemblyInfo.cs
+C:\Users\Paulo\source\repos\SplittingBill\SplittingBill\obj\Debug\netcoreapp2.1\SplittingBill.dll
+C:\Users\Paulo\source\repos\SplittingBill\SplittingBill\obj\Debug\netcoreapp2.1\SplittingBill.pdb

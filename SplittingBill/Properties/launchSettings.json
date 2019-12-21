@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SplittingBill": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\Paulo\\source\\repos\\SplittingBill\\SplittingBill\\inputFiles\\input.txt\""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\Paulo\source\repos\SplittingBill\SplittingBillTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Paulo\source\repos\SplittingBill\SplittingBillTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Paulo\source\repos\SplittingBill\SplittingBillTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Paulo\source\repos\SplittingBill\SplittingBillTests\bin\Debug\netcoreapp2.1\SplittingBillTests.deps.json
+C:\Users\Paulo\source\repos\SplittingBill\SplittingBillTests\bin\Debug\netcoreapp2.1\SplittingBillTests.runtimeconfig.json
+C:\Users\Paulo\source\repos\SplittingBill\SplittingBillTests\bin\Debug\netcoreapp2.1\SplittingBillTests.runtimeconfig.dev.json
+C:\Users\Paulo\source\repos\SplittingBill\SplittingBillTests\bin\Debug\netcoreapp2.1\SplittingBillTests.dll
+C:\Users\Paulo\source\repos\SplittingBill\SplittingBillTests\bin\Debug\netcoreapp2.1\SplittingBillTests.pdb
+C:\Users\Paulo\source\repos\SplittingBill\SplittingBillTests\bin\Debug\netcoreapp2.1\SplittingBill.dll
+C:\Users\Paulo\source\repos\SplittingBill\SplittingBillTests\bin\Debug\netcoreapp2.1\SplittingBill.pdb
+C:\Users\Paulo\source\repos\SplittingBill\SplittingBillTests\obj\Debug\netcoreapp2.1\SplittingBillTests.csprojAssemblyReference.cache
+C:\Users\Paulo\source\repos\SplittingBill\SplittingBillTests\obj\Debug\netcoreapp2.1\SplittingBillTests.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\source\repos\SplittingBill\SplittingBillTests\obj\Debug\netcoreapp2.1\SplittingBillTests.AssemblyInfoInputs.cache
+C:\Users\Paulo\source\repos\SplittingBill\SplittingBillTests\obj\Debug\netcoreapp2.1\SplittingBillTests.AssemblyInfo.cs
+C:\Users\Paulo\source\repos\SplittingBill\SplittingBillTests\obj\Debug\netcoreapp2.1\SplittingBillTests.csproj.CopyComplete
+C:\Users\Paulo\source\repos\SplittingBill\SplittingBillTests\obj\Debug\netcoreapp2.1\SplittingBillTests.dll
+C:\Users\Paulo\source\repos\SplittingBill\SplittingBillTests\obj\Debug\netcoreapp2.1\SplittingBillTests.pdb
