@@ -10,12 +10,12 @@ Solution:
  - The bill then is divided into equal parts among the participants.
  - Then the 'due part' is the net cost that each individual will occur, it is the difference between <split bill> - <total already paid>. Positive values mean the participant need to pay the specific amount indicated, negative values mean the participant need to collect that specific value from other participants.
 <br />
-    Example:<br />
-        Participant 1 expenses:<br />
-            3.69<br />
-            7.15<br />
-		Participant 1 total expenses:<br />
-		    10.84<br />
+    Example:
+        Participant 1 expenses:
+            3.69
+            7.15
+		Participant 1 total expenses:
+		    10.84
 		-------------------------------	
         Participant 2 expenses:
             11.22
@@ -44,23 +44,23 @@ Input:
  - Text file
  - Terminated with 0 (zero), either in the case of an empty file or after reading all data from an event
  - Format:
- 
-	<number of participants event 1>
-	<participant 1 with n receipts>
-	<receipt 1>
-	    ...
-	<receipt n>
-	<participant 2 with n receipts>
-	<receipt 1>
-	    ...
-	<receipt n>
-	...
-	<participant n with n receipts>
-	<receipt 1>
-	    ...
-	<receipt n>
-	<number of participants event 2>
-	    ...
+ <br />
+	<number of participants event 1><br />
+	<participant 1 with n receipts><br />
+	<receipt 1><br />
+	    ...<br />
+	<receipt n><br />
+	<participant 2 with n receipts><br />
+	<receipt 1><br />
+	    ...<br />
+	<receipt n><br />
+	...<br />
+	<participant n with n receipts><br />
+	<receipt 1><br />
+	    ...<br />
+	<receipt n><br />
+	<number of participants event 2><br />
+	    ...<br />
 	
 Example:<br />
 <br />
